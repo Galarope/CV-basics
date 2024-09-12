@@ -168,6 +168,7 @@ section .heading h2 {
 
 #experience {
     background: #000;
+    height: 100vh;
 }
 
 #experience .heading h2 {
@@ -279,6 +280,7 @@ section .heading h2 {
 
 #reseaux {
     background: #fff;
+    height: 50vh;
 }
 
 #reseaux .heading h2 {
@@ -286,8 +288,6 @@ section .heading h2 {
 }
 
 #reseaux .thumbnail img {
-    width: 100%;
-    height: 100%;
     filter: grayscale(100%);
 }
 
@@ -299,11 +299,13 @@ section .heading h2 {
     color :#000;
     text-decoration: none;
     text-align: center;
+    font-size: 3em;
 }
 /*----- realisations -----*/
 
 #realisations {
     background: #000;
+    height: 40vh;
 }
 
 #realisations h2 {
@@ -346,6 +348,7 @@ section .heading h2 {
 footer {
     background: #333;
     padding: 20px 40px;
+    height: 20vh;
 }
 
 footer h5 {
