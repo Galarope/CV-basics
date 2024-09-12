@@ -6,7 +6,9 @@ body {
 
 .img-circle {
     width: 220px;
-    background: #fff;
+    background: #FFFAF0
+
+;
 }
 
 h1,
@@ -51,7 +53,9 @@ section .heading h2 {
 .red-white {
     width: 100px;
     height: 2px;
-    background: #fff;
+    background: #FFFAF0
+
+;
     ;
     margin: 0 auto;
 }
@@ -82,13 +86,17 @@ section .heading h2 {
 }
 
 .navbar li a {
-    color: #fff !important;
+    color: #FFFAF0
+
+ !important;
 }
 
 .navbar-nav li a:hover,
 .navbar-nav li.active a {
     color: #000 !important;
-    background: #fff !important;
+    background: #FFFAF0
+
+ !important;
 }
 
 .navbar-default .navbar-toggle {
@@ -96,7 +104,9 @@ section .heading h2 {
 }
 
 .icon-bar {
-    background: #fff;
+    background: #FFFAF0
+
+;
 }
 
 /*----- About -----*/
@@ -113,20 +123,28 @@ section .heading h2 {
 }
 
 #about .heading h1 {
-    color: #fff;
+    color: #FFFAF0
+
+;
     text-transform: uppercase;
 }
 
 #about .heading h3 {
-    color: #fff;
+    color: #FFFAF0
+
+;
     font-size: 1em;
 }
 
 /* .button1 {
     font-weight: bold;
     text-transform: uppercase;
-    color: #fff;
-    border: 1px solid #fff;
+    color: #FFFAF0
+
+;
+    border: 1px solid #FFFAF0
+
+;
     display: inline-block;
     margin-top: 20px;
     padding: 18px 50px;
@@ -135,7 +153,9 @@ section .heading h2 {
 }
 
 .button1:hover {
-    background: #fff;
+    background: #FFFAF0
+
+;
     color: #000;
     text-decoration: none;
 } */
@@ -143,7 +163,9 @@ section .heading h2 {
 /*----- Skills -----*/
 
 #skills {
-    background: #fff;
+    background: #FFFAF0
+
+;
 }
 
 #skills .heading h2 {
@@ -172,7 +194,9 @@ section .heading h2 {
 }
 
 #experience .heading h2 {
-    color: #fff;
+    color: #FFFAF0
+
+;
 }
 
 .timeline {
@@ -239,7 +263,9 @@ section .heading h2 {
     padding: 20px 25px;
     position: relative;
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
-    background: #fff;
+    background: #FFFAF0
+
+;
 }
 
 .timeline-panel-container-inverted .timeline-panel {
@@ -254,8 +280,12 @@ section .heading h2 {
     right: -14px;
     display: inline-block;
     border-top: 14px solid transparent;
-    border-left: 14px solid #fff;
-    border-right: 0 solid #fff;
+    border-left: 14px solid #FFFAF0
+
+;
+    border-right: 0 solid #FFFAF0
+
+;
     border-bottom: 14px solid transparent;
     content: " ";
 }
@@ -279,12 +309,16 @@ section .heading h2 {
 /*----- Réseaux -----*/
 
 #reseaux {
-    background: #fff;
+    background: #FFFAF0;
     height: 50vh;
 }
 
 #reseaux .heading h2 {
     color: #000;
+}
+
+#reseaux .thumbnail {
+    background: #f8f2e6;
 }
 
 #reseaux .thumbnail img {
@@ -309,13 +343,17 @@ section .heading h2 {
 }
 
 #realisations h2 {
-    color: #fff;
+    color: #fffaf0
+
+;
 }
 
 .carousel-control.left,
 .carousel-control.right {
     background-image: none;
-    color: #fff;
+    color: #FFFAF0
+
+;
 }
 
 .carousel-indicators {
@@ -323,11 +361,15 @@ section .heading h2 {
 }
 
 .carousel-indicators li {
-    border-color: #fff;
+    border-color: #FFFAF0
+
+;
 }
 
 .carousel-indicators li.active {
-    background-color: #fff;
+    background-color: #FFFAF0
+
+;
 }
 
 #myCarousel .item {
@@ -335,7 +377,9 @@ section .heading h2 {
 }
 
 #myCarousel .item h3 a{
-    color: #fff;
+    color: #FFFAF0
+
+;
     font-style: italic;
 }
 
@@ -352,7 +396,9 @@ footer {
 }
 
 footer h5 {
-    color: #fff;
+    color: #FFFAF0
+
+;
     font-weight: normal;
 }
 
